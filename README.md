@@ -3,11 +3,10 @@
   In simple terms, regression is a process of continuous value prediction. 
 
 # Dependencies
-
-    •  LinearRegression
-    •  Numpy
-    •  Seaborn
-    •  Matplotlib
+- Numpy
+- Seaborn
+- Matplotlib
+- LinearRegression
     
 # Usage
   Run LinearRegression.ipynb
